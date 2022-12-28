@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reducer_todolist/static/css/main.a7b2e62c.css",
+    "main.js": "/reducer_todolist/static/js/main.0ddf1880.js",
+    "static/js/787.97a945da.chunk.js": "/reducer_todolist/static/js/787.97a945da.chunk.js",
+    "index.html": "/reducer_todolist/index.html",
+    "main.a7b2e62c.css.map": "/reducer_todolist/static/css/main.a7b2e62c.css.map",
+    "main.0ddf1880.js.map": "/reducer_todolist/static/js/main.0ddf1880.js.map",
+    "787.97a945da.chunk.js.map": "/reducer_todolist/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b2e62c.css",
+    "static/js/main.0ddf1880.js"
+  ]
+}
